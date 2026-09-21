@@ -219,10 +219,4 @@ STRiDE/
     └── stride_sensor.ino
 ```
 
----
 
-## Project
-
-**STRiDE: A Real-Time Gait Tracking System for Early Parkinson's Disease Assessment Using Spatiotemporal Analysis of Ground Reaction Forces**
-
-Andrew Liang, Ethan Liang, and Rithik Vir
