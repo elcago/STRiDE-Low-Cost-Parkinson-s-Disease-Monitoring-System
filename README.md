@@ -54,6 +54,10 @@ Converts raw force-sensitive resistor readings into resistance, conductance, and
 
 Displays GRF signals, pressure patterns, and predicted PD severity from uploaded gait recordings.
 
+**11. Arduino Data Capture** — `arduino/stride_sensor.ino`
+
+Reads pressure-sensor values from the wearable prototype and streams timestamped measurements over serial.
+
 ---
 
 ## Results
